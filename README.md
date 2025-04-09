@@ -10,7 +10,8 @@ codded with AI prompts and doesnt have any protection on the api so can easly be
 just need to change the sending (msg and files) method to be on telegram or discord and not his shitty ass api (i'll try to work on it)
 
 ### credits
-- hhh
+- strelokk
 - terek
 - kraken
+- vatfraudsters
 
