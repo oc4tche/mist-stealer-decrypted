@@ -1,5 +1,5 @@
 
-# Mist stealer leaked (no builder, leaked for maldev's)
+# Mist Stealer Decrypted (no builder, leaked for maldev's)
 
 join https://t.me/vatfraudster
 
