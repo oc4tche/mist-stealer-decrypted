@@ -11,7 +11,3 @@ just need to change the sending (msg and files) method to be on telegram or disc
 
 ### credits
 - strelokk
-- terek
-- kraken
-- vatfraudsters
-
