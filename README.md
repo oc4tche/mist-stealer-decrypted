@@ -9,5 +9,7 @@ also his entire code is skidded from doenerium; like all nodejs stealers on tele
 codded with AI prompts and doesnt have any protection on the api so can easly be shotdown with a simple abuse report
 just need to change the sending (msg and files) method to be on telegram or discord and not his shitty ass api (i'll try to work on it)
 
+### also change all discord embeds bc its gonna get u flagged
+
 ### credits
 - strelokk
