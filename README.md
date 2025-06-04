@@ -1,6 +1,6 @@
 
 # Mist Stealer Decrypted 
-## <i>no builder, no obfuscation, full source code leaked for maldev's</i>
+### <i>no builder, no obfuscation, full source code leaked for maldev's</i>
 
 <a href="https://t.me/vatfraudster">
   <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
