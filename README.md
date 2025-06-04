@@ -10,6 +10,7 @@
 1. the stealer have a method to bypass Chromium (127+) cookies by extracting them from the browser using the websocket module
 2. the entire source is skidded from doenerium and codded with AI (like all nodejs stealers sold on Telegram)
 3. his c2 has already been shotdown with a simple abuse report
+
 <i>just need to change the sending (embeds and files) method to be on telegram or discord and not his shitty api</i>
 
 ### credits
